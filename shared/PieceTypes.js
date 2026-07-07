@@ -1,0 +1,5 @@
+export const PHARAOH = "PHARAOH"
+export const PYRAMID = "PYRAMID"
+export const SCARAB = "SCARAB"
+export const ANUBIS = "ANUBIS"
+export const SPHINX = "SPHINX"
